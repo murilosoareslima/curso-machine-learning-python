@@ -1,1 +1,1 @@
-# curso-machine-learning-python
+# Machine Learning - Introdução a Classificação
